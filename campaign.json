@@ -2,9 +2,9 @@
   "enabled": true,
   "campaign": {
     "enabled": true,
-    "badge": "FLASH SALE",
-    "title": "SUPER20 Sale - Up to 30% OFF",
-    "subtitle": "All premium FiveM scripts at unbelievable prices",
+    "badge": "New Store Sale",
+    "title": "NEWSTORE Sale - Up to 25% OFF",
+    "subtitle": "All premium FiveM & Clothing items are on sale",
     "description": "Get the most advanced FiveM scripts at unbelievable prices. All scripts include lifetime updates and special support.",
     "cta": {
       "label": "Start Shopping",
@@ -20,13 +20,13 @@
   },
   "discount": {
     "enabled": false,
-    "badge": "%20 İndirim",
-    "label": "20% Discount",
+    "badge": "%25 İndirim",
+    "label": "25% Discount",
     "description": "All products"
   },
   "coupon": {
     "enabled": true,
-    "code": "SUPER20",
+    "code": "NEWSTORE",
     "label": "Coupon Code",
     "description": "Apply at checkout",
     "copyable": true
@@ -34,11 +34,11 @@
   "announcement": {
     "enabled": true,
     "icon": "🎉",
-    "title": "Map Editor Script Released!",
-    "body": "The advanced & optimized map editor script is now available in our store!",
+    "title": "Crosshair Script Released!",
+    "body": "The advanced & optimized Crosshair script is now available in our store!",
     "link": {
       "label": "Check it out",
-      "url": "/product/7471609"
+      "url": "/product/7549331"
     }
   }
 }
